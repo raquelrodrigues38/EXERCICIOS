@@ -1,0 +1,16 @@
+C:\Users\raquel.rodrigues3\Documents\entra21\Meu primeiro Gith\Meus exercicios\Meu primeiro projeto\bin\Debug\net5.0\Meu primeiro projeto.exe
+C:\Users\raquel.rodrigues3\Documents\entra21\Meu primeiro Gith\Meus exercicios\Meu primeiro projeto\bin\Debug\net5.0\Meu primeiro projeto.deps.json
+C:\Users\raquel.rodrigues3\Documents\entra21\Meu primeiro Gith\Meus exercicios\Meu primeiro projeto\bin\Debug\net5.0\Meu primeiro projeto.runtimeconfig.json
+C:\Users\raquel.rodrigues3\Documents\entra21\Meu primeiro Gith\Meus exercicios\Meu primeiro projeto\bin\Debug\net5.0\Meu primeiro projeto.runtimeconfig.dev.json
+C:\Users\raquel.rodrigues3\Documents\entra21\Meu primeiro Gith\Meus exercicios\Meu primeiro projeto\bin\Debug\net5.0\Meu primeiro projeto.dll
+C:\Users\raquel.rodrigues3\Documents\entra21\Meu primeiro Gith\Meus exercicios\Meu primeiro projeto\bin\Debug\net5.0\Meu primeiro projeto.pdb
+C:\Users\raquel.rodrigues3\Documents\entra21\Meu primeiro Gith\Meus exercicios\Meu primeiro projeto\obj\Debug\net5.0\Meu primeiro projeto.csproj.AssemblyReference.cache
+C:\Users\raquel.rodrigues3\Documents\entra21\Meu primeiro Gith\Meus exercicios\Meu primeiro projeto\obj\Debug\net5.0\Meu primeiro projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raquel.rodrigues3\Documents\entra21\Meu primeiro Gith\Meus exercicios\Meu primeiro projeto\obj\Debug\net5.0\Meu primeiro projeto.AssemblyInfoInputs.cache
+C:\Users\raquel.rodrigues3\Documents\entra21\Meu primeiro Gith\Meus exercicios\Meu primeiro projeto\obj\Debug\net5.0\Meu primeiro projeto.AssemblyInfo.cs
+C:\Users\raquel.rodrigues3\Documents\entra21\Meu primeiro Gith\Meus exercicios\Meu primeiro projeto\obj\Debug\net5.0\Meu primeiro projeto.csproj.CoreCompileInputs.cache
+C:\Users\raquel.rodrigues3\Documents\entra21\Meu primeiro Gith\Meus exercicios\Meu primeiro projeto\obj\Debug\net5.0\Meu primeiro projeto.dll
+C:\Users\raquel.rodrigues3\Documents\entra21\Meu primeiro Gith\Meus exercicios\Meu primeiro projeto\obj\Debug\net5.0\refint\Meu primeiro projeto.dll
+C:\Users\raquel.rodrigues3\Documents\entra21\Meu primeiro Gith\Meus exercicios\Meu primeiro projeto\obj\Debug\net5.0\Meu primeiro projeto.pdb
+C:\Users\raquel.rodrigues3\Documents\entra21\Meu primeiro Gith\Meus exercicios\Meu primeiro projeto\obj\Debug\net5.0\Meu primeiro projeto.genruntimeconfig.cache
+C:\Users\raquel.rodrigues3\Documents\entra21\Meu primeiro Gith\Meus exercicios\Meu primeiro projeto\obj\Debug\net5.0\ref\Meu primeiro projeto.dll
